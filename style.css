@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #20b2aa;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-size: 100px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+
+}
+
+.center{
+    display: inline-block;
+}
